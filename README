@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1790
+
+You can control your Audacious right within your Vim.
+
+Displaying playlist (you can navigate through it and select the song to play),
+Play/Pause/Stop Audacious,
+Jumping forward/backward in playlist,
+Turning on/off Shuffle play,
+Turning on/off Repeat,
+Getting info about the current playing song,
+Increasing/decreasing volume,
+And Shutting down Audacious.
+
+Also this plugin provides a menu for gVim users.
